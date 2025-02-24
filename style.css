@@ -358,6 +358,7 @@ input[type='checkbox'] {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
+    width: 1000px;
 }
 
 .home__small {
